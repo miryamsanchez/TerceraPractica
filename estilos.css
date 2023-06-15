@@ -1,0 +1,47 @@
+*{
+    color: cornflowerblue;
+}
+#cabecera{
+    font-size: x-large;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:cornflowerblue;
+    color:white !important; 
+    padding: 10px;
+    border-top: 5px solid rgba(255, 255, 255,0.3); 
+    border-bottom: 5px solid rgba(255, 255, 255,0.3);
+}
+#cabecera * {
+    color: white;
+}
+nav{
+    background-color:rgb(106, 126, 163);
+    text-align: right;
+    color: white;
+    padding: 10px;
+   
+}
+body{
+    margin-top: 10px;
+}
+input{
+    border-color:  cornflowerblue ;
+}
+[name=fechanac]{
+    color: cornflowerblue;
+}
+select{
+    color: cornflowerblue;
+    border-color: cornflowerblue;
+}
+textarea{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: cornflowerblue;
+    border-color: cornflowerblue;
+    }
+#enviar{
+    position: right;
+}
